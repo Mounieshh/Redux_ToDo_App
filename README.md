@@ -1,3 +1,28 @@
+# React Todo List with Redux Toolkit
+
+This project is a simple Todo List application built using Create React App and Redux Toolkit. It demonstrates the usage of Redux state management to handle the state of the Todo List.
+
+## Features
+
+- Add new tasks to the Todo List
+- Mark tasks as completed
+- Delete tasks from the Todo List
+
+## Technologies Used
+
+- React
+- Redux Toolkit
+- Create React App
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
