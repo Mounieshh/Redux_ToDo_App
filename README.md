@@ -5,7 +5,6 @@ This project is a simple Todo List application built using Create React App and 
 ## Features
 
 - Add new tasks to the Todo List
-- Mark tasks as completed
 - Delete tasks from the Todo List
 
 ## Technologies Used
